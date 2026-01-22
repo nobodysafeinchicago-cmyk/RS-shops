@@ -60,7 +60,7 @@
 ### 1. Download & Extract
 ```bash
 cd resources
-git clone https://github.com/RubeniaSalas/rs-shops.git
+git clone https://github.com/nobodysafeinchicago-cmyk/rs-shops.git
 ```
 
 ### 2. Add to server.cfg
