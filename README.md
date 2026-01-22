@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-2.2.0-green.svg)
 
----
+--- Download the realeased version that is the correct one ---
 
 ## 📋 Features
 
