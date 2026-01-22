@@ -382,7 +382,7 @@ If you like this script:
 - 🐛 Report bugs
 - 💡 Suggest features
 - 🔀 Create pull requests
-- If you have any questions or would like to get something edited you are more than welcome to come to our server discord and open a ticket I will assist the most I can. Discord: https://discord.gg/7Emnf2dd3A
+- If you have any questions or would like to get something edited you are more than welcome to come to our server discord and open a ticket I will assist the most I can. Discord: https://discord.gg/7Emnf2dd3A Buy me a coffee: https://paypal.me/rubenia21
 ---
 
 **Made with ❤️ for the FiveM community**
